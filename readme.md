@@ -8,9 +8,9 @@ Fundamentos de Programación
 
 Parcial 3
 
-Nombre: (Edite este archivo llenando este dato)
+Nombre: (Diego Ricardo Martinez)
 
-ID: (Edite este archivo llenando este dato)
+ID: (000280938)
 
 Fecha: Abril 21 de 2017
 
