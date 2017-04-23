@@ -1,0 +1,22 @@
+Punto 1(AddMatrix)
+* La inicialización de la matriz 'result' es incorrecta.
+* No se valida que las matrices sean operables.
+* El código nunca se ejecutará, dado que result no deja de ser nula antes de que se ejecute el resto del código.
+* Supongo que la idea era aplicar una sumatoria... Igual la suma de matrices no es una sumatoria.
+Total: 0.2 / 1.0
+
+Punto 2(MultiplyMatrixByScalar)
+* La inicialización de la matriz 'result' es incorrecta
+* Las iteraciones se hacen solo sobre las filas de una matriz 'Matrix' que nunca se define.
+* No hay instrucción que aplique la operación
+Total: 0.2 / 1.0
+
+Punto 3(MultiplyMatrices)
+* No presenta solución.
+Total: 0.0 / 2.0
+
+Punto 4(MixMatrix)
+* No presenta solución
+Total: 0.0 / 1.0
+
+Total evaluación: 0.4 / 5.0
